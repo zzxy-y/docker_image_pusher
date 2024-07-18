@@ -1,1 +1,1 @@
-docker:19-dind
+nginx:1.25.5
