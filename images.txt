@@ -1,1 +1,1 @@
-nginx:1.25.5
+imroc/logrotate:3.21
