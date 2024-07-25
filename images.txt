@@ -1,1 +1,1 @@
-node:18.20.4-bookworm
+node:18.20.2-bookworm
