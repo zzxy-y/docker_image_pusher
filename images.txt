@@ -1,1 +1,1 @@
-imroc/logrotate:3.21
+alpine:3.19.3
