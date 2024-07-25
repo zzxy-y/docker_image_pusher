@@ -1,1 +1,1 @@
-node:18.20.2-bullseye-slim
+busybox:1.36.1-glibc
