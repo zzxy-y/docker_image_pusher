@@ -1,1 +1,1 @@
-alpine:3.19.3
+node:18.20.4-bookworm
