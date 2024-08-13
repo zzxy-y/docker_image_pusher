@@ -1,1 +1,1 @@
-apache/hertzbeat:v1.6.0
+verizondigital/kubectl-flame:v0.2.4-python
