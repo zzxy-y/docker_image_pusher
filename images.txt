@@ -1,1 +1,1 @@
-verizondigital/kubectl-flame:v0.2.4-python
+traefik/whoami:v1.10
