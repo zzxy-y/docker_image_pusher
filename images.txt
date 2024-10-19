@@ -1,1 +1,5 @@
-traefik/whoami:v1.10
+mysql:8.0.39-oraclelinux9
+zabbix/zabbix-java-gateway:alpine-7.0-latest
+zabbix/zabbix-server-mysql:alpine-7.0-latest
+zabbix/zabbix-web-nginx-mysql:alpine-7.0-latest
+zabbix/zabbix-agent:7.0-ubuntu-latest
