@@ -1,1 +1,1 @@
-mysql:8.0.40-oraclelinux9
+openfalcon/falcon-dashboard:v0.2.1
