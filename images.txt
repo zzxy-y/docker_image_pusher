@@ -1,1 +1,2 @@
-openfalcon/falcon-dashboard:v0.2.1
+redis:6.2.16-alpine3.20
+postgres:15.8-alpine3.20
