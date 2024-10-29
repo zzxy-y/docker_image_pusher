@@ -1,2 +1,2 @@
-tophant/arl:1.20.3
+tophant/arl:latest
 
